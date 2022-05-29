@@ -22,4 +22,4 @@ storage/*.key
 # Built Visual Studio Code Extensions
 *.vsix
 
-.bak
+*.bak
